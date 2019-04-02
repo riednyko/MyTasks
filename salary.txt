@@ -1,0 +1,1 @@
+salary: 5,00 hours:  70  result: 350,00
