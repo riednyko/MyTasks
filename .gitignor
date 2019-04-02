@@ -1,0 +1,8 @@
+bin/
+
+## Eclipse configs
+
+.project
+.gitignor
+.classpath
+.settings/
